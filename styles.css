@@ -83,6 +83,11 @@ section {
 
 .home-img img{
     width: 36vw;
+    transition: .5s ease ;
+}
+
+.home-img img:hover{
+    transform: scale(1.02);
 }
 
 .home-content h3{
